@@ -237,12 +237,12 @@ function App() {
           <div className="max-w-7xl mx-auto py-8 px-4">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <img
-                src="https://8xbet-keo-nha-cai-vi.vercel.app/8xbet_light_.svg"
+                src="https://8xbet-keo-nha-cai-vn.vercel.app/8xbet_light_ logo.svg"
                 className="h-8"
                 alt="8xbetlogo"
               />
               <p className="text-gray-500 dark:text-gray-400">
-                <a href="https://8xbet-keo-nha-cai-vi.vercel.app/"> 8xbet </a>© 2024. All rights reserved.
+                <a href="https://8xbet-keo-nha-cai-vn.vercel.app/"> 8xbet </a>© 2025. All rights reserved.
               </p>
             </div>
           </div>
